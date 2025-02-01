@@ -43,7 +43,7 @@ except ValueError:
 ADMINS.append(OWNER)
 
 bot = Client("bot",    
-   bot_token="7453205223:AAFp3qt2VWoTjGBLomoijSIszaKoHAIPakc",    
+   bot_token="7215328708:AAEepjJ1Z2Mns9KFEkD1-TpajR66rdMjeIY",    
    api_id= 21179966,    
    api_hash= "d97919fb0a3c725e8bb2a25bbb37d57c"
 )
